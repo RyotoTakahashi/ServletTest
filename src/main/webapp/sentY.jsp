@@ -8,7 +8,7 @@
 </head>
 <body>
 <p>氏名：<%=request.getAttribute("name") %></p>
-<p>会社名：<%=request.getAttribute("conpany") %></p>
+<p>会社名：<%=request.getAttribute("company") %></p>
 <p>メールアドレス：<%=request.getAttribute("email") %></p>
 <p>お問い合わせ：<%=request.getAttribute("question") %></p>
 <p>メールマガジン：<%=request.getAttribute("magazine") %></p>
